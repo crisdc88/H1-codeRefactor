@@ -16,12 +16,12 @@ header {
     color: #ffffff;
     display: inline-block;
     height: 100px;
-    width: 50%;
+    width: 30%;
     
 }
 h1{   
     font-size: 48px;
-    width: 30%;
+    /* width: 30%; */
 }
 
 .seo {   
@@ -40,7 +40,7 @@ nav {
     margin-right: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    width: 50%;
+    width: 70%;
     
 }
 
@@ -108,43 +108,52 @@ section{
 }
 
 .engineImageLeft{
-    max-height: 200px;
+
     float: left;
+    max-height: 200px;
     padding-right: 25px;
-    
-   
 }
-/* #online-reputation-management img {
-    float: right;
-} */
+
+
+
+
 
 
 aside{
     display: block;
-    /* float: right; */
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
-    /* width: 20%; */
     height: 940px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    color: #ffffff;
+    
 }
 
-.asideBenefit{
+.benefit{
     margin-bottom: 32px;
     color: #ffffff;
 }
-.benefitH{
+.benefitHeader{
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefitImage{
     display: block;
-    margin: 10px;
+    margin: 10px auto;
     max-width: 150px;
 }
 
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
 
+footer h2 {
+    font-size: 20px;
+}
