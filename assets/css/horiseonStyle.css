@@ -1,0 +1,150 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+
+body {
+    background-color: #d9dcd6;
+    
+}
+
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    display: inline-block;
+    height: 100px;
+    width: 50%;
+    
+}
+h1{   
+    font-size: 48px;
+    width: 30%;
+}
+
+.seo {   
+    color: #d9dcd6;
+}
+header, nav{
+    background-color: #2a607c;
+    height: 100px;
+}
+
+nav {
+    float: right;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 15;
+    margin-right: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    width: 50%;
+    
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+p {
+    font-size: 16px;
+}
+
+#heroImage{
+    
+    clear: both;
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    
+}
+/* .middle{
+    display: block;
+    margin-left: 20px;
+    margin-right: 25px;
+    width: 75%;
+} */
+
+#left{
+    
+    float: left;
+    width: 75%;
+}
+#right{
+    float: right;
+    width: 25%;
+}
+section{
+
+    display: block;
+    margin-left: 20px;
+    margin-right: 25px;
+    /* width: 75%; */
+    position: relative;
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    
+}
+.engineH{
+    margin-bottom: 20px;
+    font-size: 36px;
+   
+    
+}
+.engineImageRight{
+    max-height: 200px;
+    float: right;
+    padding-left: 25px;
+    
+   
+}
+
+.engineImageLeft{
+    max-height: 200px;
+    float: left;
+    padding-right: 25px;
+    
+   
+}
+/* #online-reputation-management img {
+    float: right;
+} */
+
+
+aside{
+    display: block;
+    /* float: right; */
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    /* width: 20%; */
+    height: 940px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.asideBenefit{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+.benefitH{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefitImage{
+    display: block;
+    margin: 10px;
+    max-width: 150px;
+}
+
+
