@@ -1,28 +1,28 @@
-# hmw1-codeRefactor
+# H1-codeRefactor
 
 #CODE REFACTOR
 
 This is projects illustrates ilustrates I used HTML semantic elements to refactor an existin site, making the html structure much cleaner and easier to apply and change the styling of the html page. 
 
-##Getting Started
+## Getting Started
 Where is the project?
 
 >-[github repository: ](https://github.com/crisdc88/H1-codeRefactor/)
 
 
-###Prerequisites
+### Prerequisites
 >What do I need to run it?
 >You will only need Internet access.
 
-##Built With 
+## Built With 
 
 >-HTML
 >-CSS
 
-##Deployed Link
+## Deployed Link
 [url: https://dcristinaterry.github.io/H1-codeRefactor/ ](https://dcristinaterry.github.io/H1-codeRefactor/) 
 
-##Code block:
+## Code block:
 
 1. Open index.html
 2. Find the following code block on line 12, which ilustrates the use of semantic html elements such as "header" and "nav" for example:
@@ -45,12 +45,12 @@ Where is the project?
 
 
 
-##Author
+## Author
 
 D. Cristina Terry.
 *[GitHub : ](https://github.com/crisdc88/)
 *[linkedIn: ](www.linkedin.com/in/dcristinaterry)
 
 
-##LIcense
+##  LIcense
 [MIT](https://choosealicense.com/licenses/mit/)
